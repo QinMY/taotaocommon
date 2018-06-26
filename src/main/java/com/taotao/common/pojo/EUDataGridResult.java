@@ -1,7 +1,7 @@
 package com.taotao.common.pojo;
 
 import java.util.List;
-
+//一个修改测试
 public class EUDataGridResult {
 
 	private long total;
